@@ -1,4 +1,3 @@
-// src/store/index.js
 import { configureStore, createSlice } from '@reduxjs/toolkit';
 
 // Create a temporary slice with a reducer
